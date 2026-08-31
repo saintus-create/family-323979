@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=https://schema.buildwithfern.dev/docs-yml.json
+
+instances:
+  - url: us-fda-der.docs.buildwithfern.com
+    edit-this-page:
+      github:
+        owner: fern-starter
+        repo: family-323979
+        branch: main
+      launch: dashboard
+title: US FDA DER | Documentation
+layout:
+  searchbar-placement: sidebar
+  page-width: full
+  tabs-placement: sidebar
+tabs:
+  home:
+    display-name: Docs
+    icon: home
+navigation:
+  - tab: home
+    layout:
+      - section: Get started
+        contents:
+          - page: Welcome
+            path: docs/pages/welcome.mdx
+            icon: fa-duotone fa-house
+          - page: Edit your docs
+            path: docs/pages/editing-your-docs.mdx
+            icon: fa-duotone fa-pen-to-square
+          - page: Write content
+            path: docs/pages/writing-content.mdx
+            icon: fa-duotone fa-file-lines
+          - page: Set up navigation
+            path: docs/pages/navigation.mdx
+            icon: fa-duotone fa-sitemap
+          - page: Customize your docs
+            path: docs/pages/customization.mdx
+            icon: fa-duotone fa-palette
+          - page: Support
+            path: docs/pages/support.mdx
+            icon: fa-duotone fa-headset
+      - section: Changelog
+        contents:
+          - changelog: docs/changelog
+navbar-links:
+  - type: filled
+    text: Edit
+    url: https://dashboard.buildwithfern.com
+colors:
+  accent-primary:
+    light: "#1A1A2E"
+    dark: "#1A1A2E"
+  background:
+    light: "#F8F8F9"
+    dark: "#010102"
+  card-background:
+    dark: "#1a1a1c"
+    light: "#FFFFFF"
+  border:
+    light: "#CACACB"
+    dark: "#272728"
+theme:
+  page-actions: toolbar
+  footer-nav: minimal
+  body: canvas
+  tabs: bubble
+  sidebar: minimal
+logo:
+  dark: docs/assets/logo-dark.svg
+  light: docs/assets/logo.svg
+  height: 20
+  href: https://buildwithfern.com
+favicon: docs/assets/favicon.svg
+css:
+  - styles.css
+  - docs/assets/onboarding-theme.css
+typography:
+  headingsFont:
+    name: Inter
+  bodyFont:
+    name: Inter
+ai-search: {}
