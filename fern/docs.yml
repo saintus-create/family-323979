@@ -20,6 +20,9 @@ tabs:
   encyclopedia:
     display-name: Encyclopedia
     icon: fa-duotone fa-book-open
+  operant:
+    display-name: Operant Conditioning
+    icon: fa-duotone fa-brain
 navigation:
   - tab: home
     layout:
@@ -530,23 +533,6 @@ navigation:
           - page: "Oliver, Robert T."
             path: docs/pages/encyclopedia/o/oliver-robert-t-b-1909.mdx
             slug: "o/oliver-robert-t-b-1909"
-          - section: "Operant Conditioning"
-            contents:
-              - page: "Overview"
-                path: docs/pages/encyclopedia/o/operant-conditioning.mdx
-                slug: "o/operant-conditioning"
-              - page: "Basic Concepts"
-                path: docs/pages/encyclopedia/b/basic-concepts-operant.mdx
-                slug: "b/basic-concepts-operant"
-              - page: "Glossary"
-                path: docs/pages/encyclopedia/g/glossary-operant.mdx
-                slug: "g/glossary-operant"
-              - page: "Introduction"
-                path: docs/pages/encyclopedia/i/introduction-operant.mdx
-                slug: "i/introduction-operant"
-          - page: "Operant vs. Pavlovian"
-            path: docs/pages/encyclopedia/o/operant-versus-pavlovian-conditioning.mdx
-            slug: "o/operant-versus-pavlovian-conditioning"
       - section: "P"
         contents:
           - page: "Parenthesis"
@@ -699,9 +685,6 @@ navigation:
           - page: "Salutatio"
             path: docs/pages/encyclopedia/s/salutatio.mdx
             slug: "s/salutatio"
-          - page: "Schedules of Reinforcement"
-            path: docs/pages/encyclopedia/s/schedules-of-reinforcement.mdx
-            slug: "s/schedules-of-reinforcement"
           - page: "Scholasticism"
             path: docs/pages/encyclopedia/s/scholasticism.mdx
             slug: "s/scholasticism"
@@ -752,9 +735,6 @@ navigation:
           - page: "Telos"
             path: docs/pages/encyclopedia/t/telos.mdx
             slug: "t/telos"
-          - page: "Three-Term Contingency"
-            path: docs/pages/encyclopedia/t/three-term-contingency.mdx
-            slug: "t/three-term-contingency"
           - page: "Topics"
             path: docs/pages/encyclopedia/t/topics.mdx
             slug: "t/topics"
@@ -796,6 +776,38 @@ navigation:
           - page: "Young, Richard"
             path: docs/pages/encyclopedia/y/young-richard.mdx
             slug: "y/young-richard"
+  - tab: operant
+    layout:
+      - section: Operant Conditioning
+        contents:
+          - page: Overview
+            path: docs/pages/encyclopedia/o/operant-conditioning.mdx
+            slug: "o/operant-conditioning"
+            icon: fa-duotone fa-book-open
+          - page: Introduction
+            path: docs/pages/encyclopedia/i/introduction-operant.mdx
+            slug: "i/introduction-operant"
+            icon: fa-duotone fa-file-lines
+          - page: Basic Concepts
+            path: docs/pages/encyclopedia/b/basic-concepts-operant.mdx
+            slug: "b/basic-concepts-operant"
+            icon: fa-duotone fa-lightbulb
+          - page: Operant vs. Pavlovian
+            path: docs/pages/encyclopedia/o/operant-versus-pavlovian-conditioning.mdx
+            slug: "o/operant-versus-pavlovian-conditioning"
+            icon: fa-duotone fa-scale-balanced
+          - page: Schedules of Reinforcement
+            path: docs/pages/encyclopedia/s/schedules-of-reinforcement.mdx
+            slug: "s/schedules-of-reinforcement"
+            icon: fa-duotone fa-calendar-days
+          - page: Three-Term Contingency
+            path: docs/pages/encyclopedia/t/three-term-contingency.mdx
+            slug: "t/three-term-contingency"
+            icon: fa-duotone fa-diagram-project
+          - page: Glossary
+            path: docs/pages/encyclopedia/g/glossary-operant.mdx
+            slug: "g/glossary-operant"
+            icon: fa-duotone fa-list
 navbar-links:
   - type: filled
     text: Edit
