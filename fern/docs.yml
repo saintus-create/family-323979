@@ -814,17 +814,17 @@ navbar-links:
     url: https://dashboard.buildwithfern.com
 colors:
   accent-primary:
-    light: "#1A1A2E"
-    dark: "#1A1A2E"
+    light: "#2B2B9B"
+    dark: "#818CF8"
   background:
-    light: "#F8F8F9"
-    dark: "#010102"
+    light: "#F7F4EE"
+    dark: "#141412"
   card-background:
-    dark: "#1a1a1c"
     light: "#FFFFFF"
+    dark: "#1E1D1B"
   border:
-    light: "#CACACB"
-    dark: "#272728"
+    light: "#DDD9D3"
+    dark: "#2A2927"
 theme:
   page-actions: toolbar
   footer-nav: minimal
@@ -842,7 +842,10 @@ css:
   - docs/assets/onboarding-theme.css
 typography:
   headingsFont:
-    name: Inter
+    name: Geist
   bodyFont:
-    name: Inter
+    name: Geist
 ai-search: {}
+js:
+  - path: docs/assets/starfield.js
+    strategy: afterInteractive

@@ -1,4 +1,5 @@
-/* Remove sidebar and header border lines for seamless recessed look */
+/* ─── Layout: remove sidebar/header rule lines for seamless look ─────────── */
+
 #fern-sidebar {
   border-right-width: 0 !important;
 }
@@ -11,4 +12,54 @@
 .canvas-wrapper {
   border-color: transparent !important;
   box-shadow: inset 0 0 0 1px var(--border);
+}
+
+/* ─── Starfield canvas: sits behind everything ───────────────────────────── */
+
+#fern-starfield {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* Ensure fern shell is above the canvas */
+#fern-header,
+#fern-sidebar,
+main,
+.fern-content,
+#fern-content {
+  position: relative;
+  z-index: 1;
+}
+
+/* ─── Light mode header/sidebar surface: use warm tones ─────────────────── */
+
+:root, [data-theme="light"] {
+  --header-background:  #F0EDE7;
+  --sidebar-background: #F0EDE7;
+}
+
+[data-theme="dark"] {
+  --header-background:  #111110;
+  --sidebar-background: #111110;
+}
+
+/* ─── Sidebar text in light mode: warm near-black ────────────────────────── */
+
+[data-theme="light"] #fern-sidebar {
+  color: #1C1917;
+}
+
+/* ─── Page background consistent with token ──────────────────────────────── */
+
+body, html {
+  background-color: var(--background, #F7F4EE);
+}
+
+[data-theme="dark"] body,
+[data-theme="dark"] html {
+  background-color: var(--background, #141412);
 }
