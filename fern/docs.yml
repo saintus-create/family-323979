@@ -783,7 +783,7 @@ navigation:
           - page: Overview
             path: docs/pages/encyclopedia/o/operant-conditioning.mdx
             slug: "o/operant-conditioning"
-            icon: fa-duotone fa-book-open
+            icon: fa-duotone fa-file-lines
           - page: Introduction
             path: docs/pages/encyclopedia/i/introduction-operant.mdx
             slug: "i/introduction-operant"
@@ -791,19 +791,19 @@ navigation:
           - page: Basic Concepts
             path: docs/pages/encyclopedia/b/basic-concepts-operant.mdx
             slug: "b/basic-concepts-operant"
-            icon: fa-duotone fa-lightbulb
+            icon: fa-duotone fa-file-lines
           - page: Operant vs. Pavlovian
             path: docs/pages/encyclopedia/o/operant-versus-pavlovian-conditioning.mdx
             slug: "o/operant-versus-pavlovian-conditioning"
-            icon: fa-duotone fa-scale-balanced
+            icon: fa-duotone fa-file-lines
           - page: Schedules of Reinforcement
             path: docs/pages/encyclopedia/s/schedules-of-reinforcement.mdx
             slug: "s/schedules-of-reinforcement"
-            icon: fa-duotone fa-calendar-days
+            icon: fa-duotone fa-file-lines
           - page: Three-Term Contingency
             path: docs/pages/encyclopedia/t/three-term-contingency.mdx
             slug: "t/three-term-contingency"
-            icon: fa-duotone fa-diagram-project
+            icon: fa-duotone fa-file-lines
           - page: Glossary
             path: docs/pages/encyclopedia/g/glossary-operant.mdx
             slug: "g/glossary-operant"
