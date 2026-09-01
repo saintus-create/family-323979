@@ -17,6 +17,9 @@ tabs:
   home:
     display-name: Docs
     icon: home
+  encyclopedia:
+    display-name: Encyclopedia
+    icon: fa-duotone fa-book-open
 navigation:
   - tab: home
     layout:
@@ -43,6 +46,754 @@ navigation:
       - section: Changelog
         contents:
           - changelog: docs/changelog
+  - tab: encyclopedia
+    layout:
+      - page: Encyclopedia Overview
+        path: docs/pages/encyclopedia/overview.mdx
+        slug: encyclopedia
+        icon: fa-duotone fa-book-section
+      - section: "A"
+        contents:
+          - page: "Accumulatio"
+            path: docs/pages/encyclopedia/a/accumulatio.mdx
+            slug: "a/accumulatio"
+          - page: "Actio"
+            path: docs/pages/encyclopedia/a/actio.mdx
+            slug: "a/actio"
+          - page: "Advertising, Rhetoric of"
+            path: docs/pages/encyclopedia/a/advertising-rhetoric-of.mdx
+            slug: "a/advertising-rhetoric-of"
+          - page: "African-American Rhetoric"
+            path: docs/pages/encyclopedia/a/african-american-rhetoric.mdx
+            slug: "a/african-american-rhetoric"
+          - page: "Alcuin of York"
+            path: docs/pages/encyclopedia/a/alcuin-of-york.mdx
+            slug: "a/alcuin-of-york"
+          - page: "Anacoluthon"
+            path: docs/pages/encyclopedia/a/anacoluthon.mdx
+            slug: "a/anacoluthon"
+          - page: "Anadiplosis"
+            path: docs/pages/encyclopedia/a/anadiplosis.mdx
+            slug: "a/anadiplosis"
+          - page: "Anaphora"
+            path: docs/pages/encyclopedia/a/anaphora.mdx
+            slug: "a/anaphora"
+          - page: "Anapodoton"
+            path: docs/pages/encyclopedia/a/anapodoton.mdx
+            slug: "a/anapodoton"
+          - page: "Anastrophe"
+            path: docs/pages/encyclopedia/a/anastrophe.mdx
+            slug: "a/anastrophe"
+          - page: "Antanaclasis"
+            path: docs/pages/encyclopedia/a/antanaclasis.mdx
+            slug: "a/antanaclasis"
+          - page: "Anthimeria"
+            path: docs/pages/encyclopedia/a/anthimeria.mdx
+            slug: "a/anthimeria"
+          - page: "Antidosis"
+            path: docs/pages/encyclopedia/a/antidosis.mdx
+            slug: "a/antidosis"
+          - page: "Antimetabole"
+            path: docs/pages/encyclopedia/a/antimetabole.mdx
+            slug: "a/antimetabole"
+          - page: "Antiptosis"
+            path: docs/pages/encyclopedia/a/antiptosis.mdx
+            slug: "a/antiptosis"
+          - page: "Antithesis"
+            path: docs/pages/encyclopedia/a/antithesis.mdx
+            slug: "a/antithesis"
+          - page: "Aposiopesis"
+            path: docs/pages/encyclopedia/a/aposiopesis.mdx
+            slug: "a/aposiopesis"
+          - page: "Apostrophe"
+            path: docs/pages/encyclopedia/a/apostrophe.mdx
+            slug: "a/apostrophe"
+          - page: "Argument"
+            path: docs/pages/encyclopedia/a/argument.mdx
+            slug: "a/argument"
+          - page: "Aristotle"
+            path: docs/pages/encyclopedia/a/aristotle.mdx
+            slug: "a/aristotle"
+          - page: "Arrangement"
+            path: docs/pages/encyclopedia/a/arrangement.mdx
+            slug: "a/arrangement"
+          - page: "Ars praedicandi"
+            path: docs/pages/encyclopedia/a/ars-praedicandi.mdx
+            slug: "a/ars-praedicandi"
+          - page: "Aspasia of Miletus"
+            path: docs/pages/encyclopedia/a/aspasia-of-miletus.mdx
+            slug: "a/aspasia-of-miletus"
+          - page: "Asterismos"
+            path: docs/pages/encyclopedia/a/asterismos.mdx
+            slug: "a/asterismos"
+          - page: "Asyndeton"
+            path: docs/pages/encyclopedia/a/asyndeton.mdx
+            slug: "a/asyndeton"
+          - page: "Atticism"
+            path: docs/pages/encyclopedia/a/atticism.mdx
+            slug: "a/atticism"
+          - page: "Austin, J.L."
+            path: docs/pages/encyclopedia/a/austin-jl-19111960.mdx
+            slug: "a/austin-jl-19111960"
+          - page: "Author"
+            path: docs/pages/encyclopedia/a/author.mdx
+            slug: "a/author"
+          - page: "Axiology"
+            path: docs/pages/encyclopedia/a/axiology.mdx
+            slug: "a/axiology"
+          - page: "Ayer, Alfred Jules"
+            path: docs/pages/encyclopedia/a/ayer-alfred-jules.mdx
+            slug: "a/ayer-alfred-jules"
+          - page: "Aytoun, Edward Edmondstoune"
+            path: docs/pages/encyclopedia/a/aytoun-edward-edmondstoune.mdx
+            slug: "a/aytoun-edward-edmondstoune"
+      - section: "B"
+        contents:
+          - page: "Barthes, Roland"
+            path: docs/pages/encyclopedia/b/barthes-roland-19151980.mdx
+            slug: "b/barthes-roland-19151980"
+          - page: "Basic Concepts (Operant Conditioning)"
+            path: docs/pages/encyclopedia/b/basic-concepts-operant.mdx
+            slug: "b/basic-concepts-operant"
+          - page: "Basic English"
+            path: docs/pages/encyclopedia/b/basic-english.mdx
+            slug: "b/basic-english"
+          - page: "Basic Writing"
+            path: docs/pages/encyclopedia/b/basic-writing.mdx
+            slug: "b/basic-writing"
+          - page: "Bede"
+            path: docs/pages/encyclopedia/b/bede-672-or-673735-ce.mdx
+            slug: "b/bede-672-or-673735-ce"
+          - page: "Bentham, Jeremy"
+            path: docs/pages/encyclopedia/b/bentham-jeremy-17481832.mdx
+            slug: "b/bentham-jeremy-17481832"
+          - page: "Berthoff, Ann E."
+            path: docs/pages/encyclopedia/b/berthoff-ann-e-b-1924.mdx
+            slug: "b/berthoff-ann-e-b-1924"
+          - page: "Britton, James"
+            path: docs/pages/encyclopedia/b/britton-james-19081994.mdx
+            slug: "b/britton-james-19081994"
+          - page: "Burke, Kenneth (Logology)"
+            path: docs/pages/encyclopedia/b/burke-kenneth.mdx
+            slug: "b/burke-kenneth"
+      - section: "C"
+        contents:
+          - page: "Catachresis"
+            path: docs/pages/encyclopedia/c/catachresis.mdx
+            slug: "c/catachresis"
+          - page: "Cause and Effect"
+            path: docs/pages/encyclopedia/c/cause-and-effect.mdx
+            slug: "c/cause-and-effect"
+          - page: "Chiasmus"
+            path: docs/pages/encyclopedia/c/chiasmus.mdx
+            slug: "c/chiasmus"
+          - page: "Chomsky, Noam"
+            path: docs/pages/encyclopedia/c/chomsky-noam-b-1928.mdx
+            slug: "c/chomsky-noam-b-1928"
+          - page: "Cixous, Hélène"
+            path: docs/pages/encyclopedia/c/cixous-hlne-b-1937.mdx
+            slug: "c/cixous-hlne-b-1937"
+          - page: "Clarity"
+            path: docs/pages/encyclopedia/c/clarity.mdx
+            slug: "c/clarity"
+          - page: "Classification"
+            path: docs/pages/encyclopedia/c/classification.mdx
+            slug: "c/classification"
+          - page: "Cognitive Rhetoric"
+            path: docs/pages/encyclopedia/c/cognitive-rhetoric.mdx
+            slug: "c/cognitive-rhetoric"
+          - page: "Coherence"
+            path: docs/pages/encyclopedia/c/coherence.mdx
+            slug: "c/coherence"
+          - page: "Cohesion"
+            path: docs/pages/encyclopedia/c/cohesion.mdx
+            slug: "c/cohesion"
+          - page: "Collaboration"
+            path: docs/pages/encyclopedia/c/collaboration.mdx
+            slug: "c/collaboration"
+          - page: "Commonplaces"
+            path: docs/pages/encyclopedia/c/commonplaces.mdx
+            slug: "c/commonplaces"
+          - page: "Communication"
+            path: docs/pages/encyclopedia/c/communication.mdx
+            slug: "c/communication"
+          - page: "Comparison"
+            path: docs/pages/encyclopedia/c/comparison.mdx
+            slug: "c/comparison"
+          - page: "Composition Studies"
+            path: docs/pages/encyclopedia/c/composition-studies.mdx
+            slug: "c/composition-studies"
+          - page: "Computer Applications in Rhetoric"
+            path: docs/pages/encyclopedia/c/computer-applications-in-rhetoric.mdx
+            slug: "c/computer-applications-in-rhetoric"
+          - page: "Confirmatio"
+            path: docs/pages/encyclopedia/c/confirmatio.mdx
+            slug: "c/confirmatio"
+          - page: "Consubstantiality"
+            path: docs/pages/encyclopedia/c/consubstantiality.mdx
+            slug: "c/consubstantiality"
+          - page: "Contextuality"
+            path: docs/pages/encyclopedia/c/contextuality.mdx
+            slug: "c/contextuality"
+          - page: "Contingency"
+            path: docs/pages/encyclopedia/c/contingency.mdx
+            slug: "c/contingency"
+          - page: "Contrast"
+            path: docs/pages/encyclopedia/c/contrast.mdx
+            slug: "c/contrast"
+          - page: "Copia"
+            path: docs/pages/encyclopedia/c/copia.mdx
+            slug: "c/copia"
+          - page: "Corax"
+            path: docs/pages/encyclopedia/c/corax-c-490-bcec-440-bce.mdx
+            slug: "c/corax-c-490-bcec-440-bce"
+          - page: "Correctness"
+            path: docs/pages/encyclopedia/c/correctness.mdx
+            slug: "c/correctness"
+          - page: "Current-Traditional Rhetoric"
+            path: docs/pages/encyclopedia/c/current-traditional-rhetoric.mdx
+            slug: "c/current-traditional-rhetoric"
+      - section: "D"
+        contents:
+          - page: "De Man, Paul"
+            path: docs/pages/encyclopedia/d/de-man-paul-19191983.mdx
+            slug: "d/de-man-paul-19191983"
+          - page: "Decorum"
+            path: docs/pages/encyclopedia/d/decorum.mdx
+            slug: "d/decorum"
+          - page: "Deduction"
+            path: docs/pages/encyclopedia/d/deduction.mdx
+            slug: "d/deduction"
+          - page: "Definition"
+            path: docs/pages/encyclopedia/d/definition.mdx
+            slug: "d/definition"
+          - page: "Delivery"
+            path: docs/pages/encyclopedia/d/delivery.mdx
+            slug: "d/delivery"
+          - page: "Demetrius of Phalerum"
+            path: docs/pages/encyclopedia/d/demetrius-of-phalerum-c-350-283-bce.mdx
+            slug: "d/demetrius-of-phalerum-c-350-283-bce"
+          - page: "Derrida, Jacques"
+            path: docs/pages/encyclopedia/d/derrida-jacques.mdx
+            slug: "d/derrida-jacques"
+          - page: "Description"
+            path: docs/pages/encyclopedia/d/description.mdx
+            slug: "d/description"
+          - page: "Diacope"
+            path: docs/pages/encyclopedia/d/diacope.mdx
+            slug: "d/diacope"
+          - page: "Diaphora"
+            path: docs/pages/encyclopedia/d/diaphora.mdx
+            slug: "d/diaphora"
+          - page: "Digressio"
+            path: docs/pages/encyclopedia/d/digressio.mdx
+            slug: "d/digressio"
+          - page: "Discourse"
+            path: docs/pages/encyclopedia/d/discourse.mdx
+            slug: "d/discourse"
+          - page: "Discourse Community"
+            path: docs/pages/encyclopedia/d/discourse-community.mdx
+            slug: "d/discourse-community"
+          - page: "Dissociation"
+            path: docs/pages/encyclopedia/d/dissociation.mdx
+            slug: "d/dissociation"
+          - page: "Doublespeak"
+            path: docs/pages/encyclopedia/d/doublespeak.mdx
+            slug: "d/doublespeak"
+          - page: "Dramatism"
+            path: docs/pages/encyclopedia/d/dramatism.mdx
+            slug: "d/dramatism"
+          - page: "Du Bois, W.E.B."
+            path: docs/pages/encyclopedia/d/dubois-web-18681963.mdx
+            slug: "d/dubois-web-18681963"
+      - section: "E"
+        contents:
+          - page: "Eight-Legged Essay"
+            path: docs/pages/encyclopedia/e/eight-legged-essay.mdx
+            slug: "e/eight-legged-essay"
+          - page: "Eighteenth-Century Rhetoric"
+            path: docs/pages/encyclopedia/e/eighteenth-century-rhetoric.mdx
+            slug: "e/eighteenth-century-rhetoric"
+          - page: "Electronic Rhetoric"
+            path: docs/pages/encyclopedia/e/electronic-rhetoric.mdx
+            slug: "e/electronic-rhetoric"
+          - page: "Elocution"
+            path: docs/pages/encyclopedia/e/elocution.mdx
+            slug: "e/elocution"
+          - page: "Emerson, Ralph Waldo"
+            path: docs/pages/encyclopedia/e/emerson-ralph-waldo-18031882.mdx
+            slug: "e/emerson-ralph-waldo-18031882"
+          - page: "Emphasis"
+            path: docs/pages/encyclopedia/e/emphasis.mdx
+            slug: "e/emphasis"
+          - page: "Enallage"
+            path: docs/pages/encyclopedia/e/enallage.mdx
+            slug: "e/enallage"
+          - page: "Enthymeme"
+            path: docs/pages/encyclopedia/e/enthymeme.mdx
+            slug: "e/enthymeme"
+          - page: "Epanalepsis"
+            path: docs/pages/encyclopedia/e/epanalepsis.mdx
+            slug: "e/epanalepsis"
+          - page: "Epanorthosis"
+            path: docs/pages/encyclopedia/e/epanorthosis.mdx
+            slug: "e/epanorthosis"
+          - page: "Epiphora"
+            path: docs/pages/encyclopedia/e/epiphora.mdx
+            slug: "e/epiphora"
+          - page: "Epizeuxis"
+            path: docs/pages/encyclopedia/e/epizeuxis.mdx
+            slug: "e/epizeuxis"
+          - page: "Eristic"
+            path: docs/pages/encyclopedia/e/eristic.mdx
+            slug: "e/eristic"
+          - page: "Ethnography"
+            path: docs/pages/encyclopedia/e/ethnography.mdx
+            slug: "e/ethnography"
+          - page: "Ethos"
+            path: docs/pages/encyclopedia/e/ethos.mdx
+            slug: "e/ethos"
+          - page: "Evidence"
+            path: docs/pages/encyclopedia/e/evidence.mdx
+            slug: "e/evidence"
+          - page: "Example"
+            path: docs/pages/encyclopedia/e/example.mdx
+            slug: "e/example"
+          - page: "Exordium"
+            path: docs/pages/encyclopedia/e/exordium.mdx
+            slug: "e/exordium"
+          - page: "Exposition"
+            path: docs/pages/encyclopedia/e/exposition.mdx
+            slug: "e/exposition"
+          - page: "Expressionism"
+            path: docs/pages/encyclopedia/e/expressionism.mdx
+            slug: "e/expressionism"
+      - section: "F"
+        contents:
+          - page: "Fallacy"
+            path: docs/pages/encyclopedia/f/fallacy.mdx
+            slug: "f/fallacy"
+          - page: "Fell, Margaret"
+            path: docs/pages/encyclopedia/f/fell-margaret-16141702.mdx
+            slug: "f/fell-margaret-16141702"
+      - section: "G"
+        contents:
+          - page: "Genre"
+            path: docs/pages/encyclopedia/g/genre.mdx
+            slug: "g/genre"
+          - page: "Ghostwriting"
+            path: docs/pages/encyclopedia/g/ghostwriting.mdx
+            slug: "g/ghostwriting"
+          - page: "Glossary (Operant Conditioning)"
+            path: docs/pages/encyclopedia/g/glossary-operant.mdx
+            slug: "g/glossary-operant"
+          - page: "Gradatio"
+            path: docs/pages/encyclopedia/g/gradatio.mdx
+            slug: "g/gradatio"
+          - page: "Grammar"
+            path: docs/pages/encyclopedia/g/grammar.mdx
+            slug: "g/grammar"
+      - section: "H"
+        contents:
+          - page: "Handbooks"
+            path: docs/pages/encyclopedia/h/handbooks.mdx
+            slug: "h/handbooks"
+          - page: "Hendiadys"
+            path: docs/pages/encyclopedia/h/hendiadys.mdx
+            slug: "h/hendiadys"
+          - page: "Hermeneutics"
+            path: docs/pages/encyclopedia/h/hermeneutics.mdx
+            slug: "h/hermeneutics"
+          - page: "Heuristics"
+            path: docs/pages/encyclopedia/h/heuristics.mdx
+            slug: "h/heuristics"
+          - page: "Historiographies of Rhetoric"
+            path: docs/pages/encyclopedia/h/historiographies-of-rhetoric.mdx
+            slug: "h/historiographies-of-rhetoric"
+          - page: "Homily"
+            path: docs/pages/encyclopedia/h/homily.mdx
+            slug: "h/homily"
+          - page: "Howell, Wilbur Samuel"
+            path: docs/pages/encyclopedia/h/howell-wilbur-samuel-1904-1992.mdx
+            slug: "h/howell-wilbur-samuel-1904-1992"
+          - page: "Hypallage"
+            path: docs/pages/encyclopedia/h/hypallage.mdx
+            slug: "h/hypallage"
+          - page: "Hyperbaton"
+            path: docs/pages/encyclopedia/h/hyperbaton.mdx
+            slug: "h/hyperbaton"
+          - page: "Hyperbole"
+            path: docs/pages/encyclopedia/h/hyperbole.mdx
+            slug: "h/hyperbole"
+      - section: "I"
+        contents:
+          - page: "Identification"
+            path: docs/pages/encyclopedia/i/identification.mdx
+            slug: "i/identification"
+          - page: "Illustration"
+            path: docs/pages/encyclopedia/i/illustration.mdx
+            slug: "i/illustration"
+          - page: "Imagery"
+            path: docs/pages/encyclopedia/i/imagery.mdx
+            slug: "i/imagery"
+          - page: "Imitation"
+            path: docs/pages/encyclopedia/i/imitation.mdx
+            slug: "i/imitation"
+          - page: "Inclusio"
+            path: docs/pages/encyclopedia/i/inclusio.mdx
+            slug: "i/inclusio"
+          - page: "Induction"
+            path: docs/pages/encyclopedia/i/induction.mdx
+            slug: "i/induction"
+          - page: "Informal Logic"
+            path: docs/pages/encyclopedia/i/informal-logic.mdx
+            slug: "i/informal-logic"
+          - page: "Introduction (Operant Conditioning)"
+            path: docs/pages/encyclopedia/i/introduction-operant.mdx
+            slug: "i/introduction-operant"
+          - page: "Invention"
+            path: docs/pages/encyclopedia/i/invention.mdx
+            slug: "i/invention"
+          - page: "Irony"
+            path: docs/pages/encyclopedia/i/irony.mdx
+            slug: "i/irony"
+          - page: "Isocolon"
+            path: docs/pages/encyclopedia/i/isocolon.mdx
+            slug: "i/isocolon"
+          - page: "Isocrates"
+            path: docs/pages/encyclopedia/i/isocrates.mdx
+            slug: "i/isocrates"
+      - section: "K"
+        contents:
+          - page: "Kairos"
+            path: docs/pages/encyclopedia/k/kairos.mdx
+            slug: "k/kairos"
+      - section: "L"
+        contents:
+          - page: "Language Arts"
+            path: docs/pages/encyclopedia/l/language-arts.mdx
+            slug: "l/language-arts"
+          - page: "Lauer, Janice M."
+            path: docs/pages/encyclopedia/l/lauer-janice-m-b-1931.mdx
+            slug: "l/lauer-janice-m-b-1931"
+          - page: "Linguistics"
+            path: docs/pages/encyclopedia/l/linguistics.mdx
+            slug: "l/linguistics"
+          - page: "Literacy"
+            path: docs/pages/encyclopedia/l/literacy.mdx
+            slug: "l/literacy"
+          - page: "Liturgy"
+            path: docs/pages/encyclopedia/l/liturgy.mdx
+            slug: "l/liturgy"
+          - page: "Logic"
+            path: docs/pages/encyclopedia/l/logic.mdx
+            slug: "l/logic"
+          - page: "Logocentrism"
+            path: docs/pages/encyclopedia/l/logocentrism.mdx
+            slug: "l/logocentrism"
+          - page: "Logology"
+            path: docs/pages/encyclopedia/l/logology.mdx
+            slug: "l/logology"
+          - page: "Logos"
+            path: docs/pages/encyclopedia/l/logos.mdx
+            slug: "l/logos"
+      - section: "M"
+        contents:
+          - page: "Magic"
+            path: docs/pages/encyclopedia/m/magic.mdx
+            slug: "m/magic"
+          - page: "Memory"
+            path: docs/pages/encyclopedia/m/memory.mdx
+            slug: "m/memory"
+          - page: "Metadiscourse"
+            path: docs/pages/encyclopedia/m/metadiscourse.mdx
+            slug: "m/metadiscourse"
+          - page: "Metalepsis"
+            path: docs/pages/encyclopedia/m/metalepsis.mdx
+            slug: "m/metalepsis"
+          - page: "Metaphor"
+            path: docs/pages/encyclopedia/m/metaphor.mdx
+            slug: "m/metaphor"
+          - page: "Modes of Discourse"
+            path: docs/pages/encyclopedia/m/modes-of-discourse.mdx
+            slug: "m/modes-of-discourse"
+          - page: "Myth"
+            path: docs/pages/encyclopedia/m/myth.mdx
+            slug: "m/myth"
+      - section: "N"
+        contents:
+          - page: "Narratio"
+            path: docs/pages/encyclopedia/n/narratio.mdx
+            slug: "n/narratio"
+          - page: "National Council of Teachers of English"
+            path: docs/pages/encyclopedia/n/national-council-of-teachers-of-english.mdx
+            slug: "n/national-council-of-teachers-of-english"
+          - page: "Nineteenth-Century Rhetoric"
+            path: docs/pages/encyclopedia/n/nineteenth-century-rhetoric.mdx
+            slug: "n/nineteenth-century-rhetoric"
+      - section: "O"
+        contents:
+          - page: "Olbrechts-Tyteca, Lucie"
+            path: docs/pages/encyclopedia/o/olbrechts-tyteca-lucie-1899-1988.mdx
+            slug: "o/olbrechts-tyteca-lucie-1899-1988"
+          - page: "Oliver, Robert T."
+            path: docs/pages/encyclopedia/o/oliver-robert-t-b-1909.mdx
+            slug: "o/oliver-robert-t-b-1909"
+          - page: "Operant Conditioning"
+            path: docs/pages/encyclopedia/o/operant-conditioning.mdx
+            slug: "o/operant-conditioning"
+          - page: "Operant versus Pavlovian Conditioning"
+            path: docs/pages/encyclopedia/o/operant-versus-pavlovian-conditioning.mdx
+            slug: "o/operant-versus-pavlovian-conditioning"
+      - section: "P"
+        contents:
+          - page: "Parenthesis"
+            path: docs/pages/encyclopedia/p/parenthesis.mdx
+            slug: "p/parenthesis"
+          - page: "Partitio"
+            path: docs/pages/encyclopedia/p/partitio.mdx
+            slug: "p/partitio"
+          - page: "Pathos"
+            path: docs/pages/encyclopedia/p/pathos.mdx
+            slug: "p/pathos"
+          - page: "Pentad"
+            path: docs/pages/encyclopedia/p/pentad.mdx
+            slug: "p/pentad"
+          - page: "Peripatetics"
+            path: docs/pages/encyclopedia/p/peripatetics.mdx
+            slug: "p/peripatetics"
+          - page: "Periphrasis"
+            path: docs/pages/encyclopedia/p/periphrasis.mdx
+            slug: "p/periphrasis"
+          - page: "Peroratio"
+            path: docs/pages/encyclopedia/p/peroratio.mdx
+            slug: "p/peroratio"
+          - page: "Persona"
+            path: docs/pages/encyclopedia/p/persona.mdx
+            slug: "p/persona"
+          - page: "Persuasion"
+            path: docs/pages/encyclopedia/p/persuasion.mdx
+            slug: "p/persuasion"
+          - page: "Phronésis"
+            path: docs/pages/encyclopedia/p/phron-sis.mdx
+            slug: "p/phron-sis"
+          - page: "Pizan, Christine de"
+            path: docs/pages/encyclopedia/p/pizan-christine-de-1364-c-1430.mdx
+            slug: "p/pizan-christine-de-1364-c-1430"
+          - page: "Pleonasm"
+            path: docs/pages/encyclopedia/p/pleonasm.mdx
+            slug: "p/pleonasm"
+          - page: "Ploce"
+            path: docs/pages/encyclopedia/p/ploce.mdx
+            slug: "p/ploce"
+          - page: "Poetics"
+            path: docs/pages/encyclopedia/p/poetics.mdx
+            slug: "p/poetics"
+          - page: "Polyptoton"
+            path: docs/pages/encyclopedia/p/polyptoton.mdx
+            slug: "p/polyptoton"
+          - page: "Polysyndeton"
+            path: docs/pages/encyclopedia/p/polysyndeton.mdx
+            slug: "p/polysyndeton"
+          - page: "Port-Royalists"
+            path: docs/pages/encyclopedia/p/port-royalists.mdx
+            slug: "p/port-royalists"
+          - page: "Portfolio"
+            path: docs/pages/encyclopedia/p/portfolio.mdx
+            slug: "p/portfolio"
+          - page: "Postmodernism"
+            path: docs/pages/encyclopedia/p/postmodernism.mdx
+            slug: "p/postmodernism"
+          - page: "Poststructuralism"
+            path: docs/pages/encyclopedia/p/poststructuralism.mdx
+            slug: "p/poststructuralism"
+          - page: "Pragmatism"
+            path: docs/pages/encyclopedia/p/pragmatism.mdx
+            slug: "p/pragmatism"
+          - page: "Praxis"
+            path: docs/pages/encyclopedia/p/praxis.mdx
+            slug: "p/praxis"
+          - page: "Preteritio"
+            path: docs/pages/encyclopedia/p/preteritio.mdx
+            slug: "p/preteritio"
+          - page: "Probability"
+            path: docs/pages/encyclopedia/p/probability.mdx
+            slug: "p/probability"
+          - page: "Process/Product"
+            path: docs/pages/encyclopedia/p/process-product.mdx
+            slug: "p/process-product"
+          - page: "Prolegomena"
+            path: docs/pages/encyclopedia/p/prolegomena.mdx
+            slug: "p/prolegomena"
+          - page: "Proof"
+            path: docs/pages/encyclopedia/p/proof.mdx
+            slug: "p/proof"
+          - page: "Propaganda"
+            path: docs/pages/encyclopedia/p/propaganda.mdx
+            slug: "p/propaganda"
+          - page: "Protest Rhetoric"
+            path: docs/pages/encyclopedia/p/protest-rhetoric.mdx
+            slug: "p/protest-rhetoric"
+          - page: "Protocols"
+            path: docs/pages/encyclopedia/p/protocols.mdx
+            slug: "p/protocols"
+      - section: "Q"
+        contents:
+          - page: "Quadrivium"
+            path: docs/pages/encyclopedia/q/quadrivium.mdx
+            slug: "q/quadrivium"
+          - page: "Quine, Willard Van Orman"
+            path: docs/pages/encyclopedia/q/quine-willard-van-orman-b-1908.mdx
+            slug: "q/quine-willard-van-orman-b-1908"
+          - page: "Quintilian"
+            path: docs/pages/encyclopedia/q/quintilian.mdx
+            slug: "q/quintilian"
+      - section: "R"
+        contents:
+          - page: "Readability"
+            path: docs/pages/encyclopedia/r/readability.mdx
+            slug: "r/readability"
+          - page: "Reader-Response Criticism"
+            path: docs/pages/encyclopedia/r/reader-response-criticism.mdx
+            slug: "r/reader-response-criticism"
+          - page: "Rhetor"
+            path: docs/pages/encyclopedia/r/rhetor.mdx
+            slug: "r/rhetor"
+          - page: "Rhetoric"
+            path: docs/pages/encyclopedia/r/rhetoric.mdx
+            slug: "r/rhetoric"
+          - page: "Rhetoric and Poetry"
+            path: docs/pages/encyclopedia/r/rhetoric-and-poetry.mdx
+            slug: "r/rhetoric-and-poetry"
+          - page: "Rhetoric and Psychiatry"
+            path: docs/pages/encyclopedia/r/rhetoric-and-psychiatry.mdx
+            slug: "r/rhetoric-and-psychiatry"
+          - page: "Rhetoric and Technology"
+            path: docs/pages/encyclopedia/r/rhetoric-and-technology.mdx
+            slug: "r/rhetoric-and-technology"
+          - page: "Rhetoric of Film"
+            path: docs/pages/encyclopedia/r/rhetoric-of-film.mdx
+            slug: "r/rhetoric-of-film"
+          - page: "Rhetoric of Silence"
+            path: docs/pages/encyclopedia/r/rhetoric-of-silence.mdx
+            slug: "r/rhetoric-of-silence"
+          - page: "Rhetoric Society of America"
+            path: docs/pages/encyclopedia/r/rhetoric-society-of-america.mdx
+            slug: "r/rhetoric-society-of-america"
+          - page: "Rhetorical Criticism"
+            path: docs/pages/encyclopedia/r/rhetorical-criticism.mdx
+            slug: "r/rhetorical-criticism"
+          - page: "Rhetorician"
+            path: docs/pages/encyclopedia/r/rhetorician.mdx
+            slug: "r/rhetorician"
+          - page: "Rhêtorikê"
+            path: docs/pages/encyclopedia/r/rh-torik.mdx
+            slug: "r/rh-torik"
+          - page: "Royal Society of London"
+            path: docs/pages/encyclopedia/r/royal-society-of-london.mdx
+            slug: "r/royal-society-of-london"
+      - section: "S"
+        contents:
+          - page: "Salutatio"
+            path: docs/pages/encyclopedia/s/salutatio.mdx
+            slug: "s/salutatio"
+          - page: "Schedules of Reinforcement"
+            path: docs/pages/encyclopedia/s/schedules-of-reinforcement.mdx
+            slug: "s/schedules-of-reinforcement"
+          - page: "Scholasticism"
+            path: docs/pages/encyclopedia/s/scholasticism.mdx
+            slug: "s/scholasticism"
+          - page: "Semiotics"
+            path: docs/pages/encyclopedia/s/semiotics.mdx
+            slug: "s/semiotics"
+          - page: "Sermon"
+            path: docs/pages/encyclopedia/s/sermon.mdx
+            slug: "s/sermon"
+          - page: "Sociolinguistics"
+            path: docs/pages/encyclopedia/s/sociolinguistics.mdx
+            slug: "s/sociolinguistics"
+          - page: "Sophist"
+            path: docs/pages/encyclopedia/s/sophist.mdx
+            slug: "s/sophist"
+          - page: "Speaking and Writing"
+            path: docs/pages/encyclopedia/s/speaking-and-writing.mdx
+            slug: "s/speaking-and-writing"
+          - page: "Speech"
+            path: docs/pages/encyclopedia/s/speech.mdx
+            slug: "s/speech"
+          - page: "Speech Communication"
+            path: docs/pages/encyclopedia/s/speech-communication.mdx
+            slug: "s/speech-communication"
+          - page: "Stasis Theory"
+            path: docs/pages/encyclopedia/s/stasis-theory.mdx
+            slug: "s/stasis-theory"
+          - page: "Style"
+            path: docs/pages/encyclopedia/s/style.mdx
+            slug: "s/style"
+          - page: "Syllogism"
+            path: docs/pages/encyclopedia/s/syllogism.mdx
+            slug: "s/syllogism"
+          - page: "Symploce"
+            path: docs/pages/encyclopedia/s/symploce.mdx
+            slug: "s/symploce"
+          - page: "Synecdoche"
+            path: docs/pages/encyclopedia/s/synecdoche.mdx
+            slug: "s/synecdoche"
+      - section: "T"
+        contents:
+          - page: "Tagmemics"
+            path: docs/pages/encyclopedia/t/tagmemics.mdx
+            slug: "t/tagmemics"
+          - page: "Technê"
+            path: docs/pages/encyclopedia/t/techn.mdx
+            slug: "t/techn"
+          - page: "Telos"
+            path: docs/pages/encyclopedia/t/telos.mdx
+            slug: "t/telos"
+          - page: "The Three-Term Contingency"
+            path: docs/pages/encyclopedia/t/three-term-contingency.mdx
+            slug: "t/three-term-contingency"
+          - page: "Topics"
+            path: docs/pages/encyclopedia/t/topics.mdx
+            slug: "t/topics"
+          - page: "Translation"
+            path: docs/pages/encyclopedia/t/translation.mdx
+            slug: "t/translation"
+          - page: "Trivium"
+            path: docs/pages/encyclopedia/t/trivium.mdx
+            slug: "t/trivium"
+          - page: "Tropes"
+            path: docs/pages/encyclopedia/t/tropes.mdx
+            slug: "t/tropes"
+          - page: "Twentieth-Century Rhetoric"
+            path: docs/pages/encyclopedia/t/twentieth-century-rhetoric.mdx
+            slug: "t/twentieth-century-rhetoric"
+      - section: "U"
+        contents:
+          - page: "Unity"
+            path: docs/pages/encyclopedia/u/unity.mdx
+            slug: "u/unity"
+      - section: "V"
+        contents:
+          - page: "Voice"
+            path: docs/pages/encyclopedia/v/voice.mdx
+            slug: "v/voice"
+      - section: "W"
+        contents:
+          - page: "Weaver, Richard M."
+            path: docs/pages/encyclopedia/w/weaver-richard-m-1910-1953.mdx
+            slug: "w/weaver-richard-m-1910-1953"
+          - page: "Wendell, Barrett"
+            path: docs/pages/encyclopedia/w/wendell-barrett-1855-1921.mdx
+            slug: "w/wendell-barrett-1855-1921"
+          - page: "Writing across the Curriculum"
+            path: docs/pages/encyclopedia/w/writing-across-the-curriculum.mdx
+            slug: "w/writing-across-the-curriculum"
+      - section: "Y"
+        contents:
+          - page: "Young, Richard"
+            path: docs/pages/encyclopedia/y/young-richard.mdx
+            slug: "y/young-richard"
 navbar-links:
   - type: filled
     text: Edit
