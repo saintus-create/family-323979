@@ -155,6 +155,12 @@ navigation:
           - page: "Basic Concepts (Operant Conditioning)"
             path: docs/pages/encyclopedia/b/basic-concepts-operant.mdx
             slug: "b/basic-concepts-operant"
+          - page: "Basic English"
+            path: docs/pages/encyclopedia/b/basic-english.mdx
+            slug: "b/basic-english"
+          - page: "Basic Writing"
+            path: docs/pages/encyclopedia/b/basic-writing.mdx
+            slug: "b/basic-writing"
           - page: "Bede"
             path: docs/pages/encyclopedia/b/bede-672-or-673735-ce.mdx
             slug: "b/bede-672-or-673735-ce"
@@ -167,6 +173,9 @@ navigation:
           - page: "Britton, James"
             path: docs/pages/encyclopedia/b/britton-james-19081994.mdx
             slug: "b/britton-james-19081994"
+          - page: "Burke, Kenneth (Logology)"
+            path: docs/pages/encyclopedia/b/burke-kenneth.mdx
+            slug: "b/burke-kenneth"
       - section: "C"
         contents:
           - page: "Catachresis"

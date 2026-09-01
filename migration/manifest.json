@@ -199,45 +199,61 @@
       "letter": "B",
       "title": "Barthes, Roland (1915–1980)",
       "slug": "barthes-roland-19151980",
-      "status": "pending"
+      "status": "done"
     },
     {
       "letter": "B",
       "title": "Basic Concepts (Operant Conditioning)",
       "slug": "basic-concepts-operant",
-      "status": "pending"
+      "status": "done"
+    },
+    {
+      "letter": "B",
+      "title": "Basic English",
+      "slug": "basic-english",
+      "status": "done",
+      "recovered": true,
+      "review_note": "Recovered from spill-over in the barthes-roland record; absent from source index."
+    },
+    {
+      "letter": "B",
+      "title": "Basic Writing",
+      "slug": "basic-writing",
+      "status": "done",
+      "recovered": true,
+      "review_note": "Recovered from spill-over in the barthes-roland record; absent from source index."
     },
     {
       "letter": "B",
       "title": "Bede (672/673–735 C.E.)",
       "slug": "bede-672-or-673735-ce",
-      "status": "pending"
+      "status": "done"
     },
     {
       "letter": "B",
       "title": "Bentham, Jeremy (1748–1832)",
       "slug": "bentham-jeremy-17481832",
-      "status": "pending"
+      "status": "done"
     },
     {
       "letter": "B",
       "title": "Berthoff, Ann E. (b. 1924)",
       "slug": "berthoff-ann-e-b-1924",
-      "status": "pending"
+      "status": "done"
     },
     {
       "letter": "B",
       "title": "Britton, James (1908–1994)",
       "slug": "britton-james-19081994",
-      "status": "pending"
+      "status": "done"
     },
     {
       "letter": "B",
-      "title": "Burke, Kenneth",
-      "slug": "burkes-approach-to-understanding-how-language-functions",
-      "status": "pending",
+      "title": "Burke, Kenneth (Logology)",
+      "slug": "burke-kenneth",
+      "status": "done",
       "needs_review": true,
-      "review_note": "Source title is 'Burke' with a URL slug inherited from a longer merged title; confirm entry boundaries."
+      "review_note": "Surviving portion only: logology section; opening truncated in source. Migrated at slug burke-kenneth."
     },
     {
       "letter": "C",
