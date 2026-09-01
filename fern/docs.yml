@@ -152,7 +152,7 @@ navigation:
           - page: "Barthes, Roland"
             path: docs/pages/encyclopedia/b/barthes-roland-19151980.mdx
             slug: "b/barthes-roland-19151980"
-          - page: "Basic Concepts (Operant Conditioning)"
+          - page: "Basic Concepts (Operant)"
             path: docs/pages/encyclopedia/b/basic-concepts-operant.mdx
             slug: "b/basic-concepts-operant"
           - page: "Basic English"
@@ -173,7 +173,7 @@ navigation:
           - page: "Britton, James"
             path: docs/pages/encyclopedia/b/britton-james-19081994.mdx
             slug: "b/britton-james-19081994"
-          - page: "Burke, Kenneth (Logology)"
+          - page: "Burke, Kenneth"
             path: docs/pages/encyclopedia/b/burke-kenneth.mdx
             slug: "b/burke-kenneth"
       - section: "C"
@@ -223,7 +223,7 @@ navigation:
           - page: "Composition Studies"
             path: docs/pages/encyclopedia/c/composition-studies.mdx
             slug: "c/composition-studies"
-          - page: "Computer Applications in Rhetoric"
+          - page: "Computing in Rhetoric"
             path: docs/pages/encyclopedia/c/computer-applications-in-rhetoric.mdx
             slug: "c/computer-applications-in-rhetoric"
           - page: "Confirmatio"
@@ -384,7 +384,7 @@ navigation:
           - page: "Ghostwriting"
             path: docs/pages/encyclopedia/g/ghostwriting.mdx
             slug: "g/ghostwriting"
-          - page: "Glossary (Operant Conditioning)"
+          - page: "Glossary (Operant)"
             path: docs/pages/encyclopedia/g/glossary-operant.mdx
             slug: "g/glossary-operant"
           - page: "Gradatio"
@@ -448,7 +448,7 @@ navigation:
           - page: "Informal Logic"
             path: docs/pages/encyclopedia/i/informal-logic.mdx
             slug: "i/informal-logic"
-          - page: "Introduction (Operant Conditioning)"
+          - page: "Introduction (Operant)"
             path: docs/pages/encyclopedia/i/introduction-operant.mdx
             slug: "i/introduction-operant"
           - page: "Invention"
@@ -525,7 +525,7 @@ navigation:
           - page: "Narratio"
             path: docs/pages/encyclopedia/n/narratio.mdx
             slug: "n/narratio"
-          - page: "National Council of Teachers of English"
+          - page: "NCTE"
             path: docs/pages/encyclopedia/n/national-council-of-teachers-of-english.mdx
             slug: "n/national-council-of-teachers-of-english"
           - page: "Nineteenth-Century Rhetoric"
@@ -542,7 +542,7 @@ navigation:
           - page: "Operant Conditioning"
             path: docs/pages/encyclopedia/o/operant-conditioning.mdx
             slug: "o/operant-conditioning"
-          - page: "Operant versus Pavlovian Conditioning"
+          - page: "Operant vs. Pavlovian"
             path: docs/pages/encyclopedia/o/operant-versus-pavlovian-conditioning.mdx
             slug: "o/operant-versus-pavlovian-conditioning"
       - section: "P"
@@ -750,7 +750,7 @@ navigation:
           - page: "Telos"
             path: docs/pages/encyclopedia/t/telos.mdx
             slug: "t/telos"
-          - page: "The Three-Term Contingency"
+          - page: "Three-Term Contingency"
             path: docs/pages/encyclopedia/t/three-term-contingency.mdx
             slug: "t/three-term-contingency"
           - page: "Topics"
@@ -786,7 +786,7 @@ navigation:
           - page: "Wendell, Barrett"
             path: docs/pages/encyclopedia/w/wendell-barrett-1855-1921.mdx
             slug: "w/wendell-barrett-1855-1921"
-          - page: "Writing across the Curriculum"
+          - page: "Writing Across the Curriculum"
             path: docs/pages/encyclopedia/w/writing-across-the-curriculum.mdx
             slug: "w/writing-across-the-curriculum"
       - section: "Y"
