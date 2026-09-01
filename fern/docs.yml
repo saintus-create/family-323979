@@ -20,6 +20,9 @@ tabs:
   encyclopedia:
     display-name: Encyclopedia
     icon: fa-duotone fa-book-open
+  operant:
+    display-name: Operant Conditioning
+    icon: fa-duotone fa-brain
 navigation:
   - tab: home
     layout:
@@ -152,9 +155,6 @@ navigation:
           - page: "Barthes, Roland"
             path: docs/pages/encyclopedia/b/barthes-roland-19151980.mdx
             slug: "b/barthes-roland-19151980"
-          - page: "Basic Concepts (Operant Conditioning)"
-            path: docs/pages/encyclopedia/b/basic-concepts-operant.mdx
-            slug: "b/basic-concepts-operant"
           - page: "Basic English"
             path: docs/pages/encyclopedia/b/basic-english.mdx
             slug: "b/basic-english"
@@ -173,7 +173,7 @@ navigation:
           - page: "Britton, James"
             path: docs/pages/encyclopedia/b/britton-james-19081994.mdx
             slug: "b/britton-james-19081994"
-          - page: "Burke, Kenneth (Logology)"
+          - page: "Burke, Kenneth"
             path: docs/pages/encyclopedia/b/burke-kenneth.mdx
             slug: "b/burke-kenneth"
       - section: "C"
@@ -223,7 +223,7 @@ navigation:
           - page: "Composition Studies"
             path: docs/pages/encyclopedia/c/composition-studies.mdx
             slug: "c/composition-studies"
-          - page: "Computer Applications in Rhetoric"
+          - page: "Computing in Rhetoric"
             path: docs/pages/encyclopedia/c/computer-applications-in-rhetoric.mdx
             slug: "c/computer-applications-in-rhetoric"
           - page: "Confirmatio"
@@ -384,9 +384,6 @@ navigation:
           - page: "Ghostwriting"
             path: docs/pages/encyclopedia/g/ghostwriting.mdx
             slug: "g/ghostwriting"
-          - page: "Glossary (Operant Conditioning)"
-            path: docs/pages/encyclopedia/g/glossary-operant.mdx
-            slug: "g/glossary-operant"
           - page: "Gradatio"
             path: docs/pages/encyclopedia/g/gradatio.mdx
             slug: "g/gradatio"
@@ -448,9 +445,6 @@ navigation:
           - page: "Informal Logic"
             path: docs/pages/encyclopedia/i/informal-logic.mdx
             slug: "i/informal-logic"
-          - page: "Introduction (Operant Conditioning)"
-            path: docs/pages/encyclopedia/i/introduction-operant.mdx
-            slug: "i/introduction-operant"
           - page: "Invention"
             path: docs/pages/encyclopedia/i/invention.mdx
             slug: "i/invention"
@@ -525,7 +519,7 @@ navigation:
           - page: "Narratio"
             path: docs/pages/encyclopedia/n/narratio.mdx
             slug: "n/narratio"
-          - page: "National Council of Teachers of English"
+          - page: "NCTE"
             path: docs/pages/encyclopedia/n/national-council-of-teachers-of-english.mdx
             slug: "n/national-council-of-teachers-of-english"
           - page: "Nineteenth-Century Rhetoric"
@@ -539,12 +533,6 @@ navigation:
           - page: "Oliver, Robert T."
             path: docs/pages/encyclopedia/o/oliver-robert-t-b-1909.mdx
             slug: "o/oliver-robert-t-b-1909"
-          - page: "Operant Conditioning"
-            path: docs/pages/encyclopedia/o/operant-conditioning.mdx
-            slug: "o/operant-conditioning"
-          - page: "Operant versus Pavlovian Conditioning"
-            path: docs/pages/encyclopedia/o/operant-versus-pavlovian-conditioning.mdx
-            slug: "o/operant-versus-pavlovian-conditioning"
       - section: "P"
         contents:
           - page: "Parenthesis"
@@ -697,9 +685,6 @@ navigation:
           - page: "Salutatio"
             path: docs/pages/encyclopedia/s/salutatio.mdx
             slug: "s/salutatio"
-          - page: "Schedules of Reinforcement"
-            path: docs/pages/encyclopedia/s/schedules-of-reinforcement.mdx
-            slug: "s/schedules-of-reinforcement"
           - page: "Scholasticism"
             path: docs/pages/encyclopedia/s/scholasticism.mdx
             slug: "s/scholasticism"
@@ -750,9 +735,6 @@ navigation:
           - page: "Telos"
             path: docs/pages/encyclopedia/t/telos.mdx
             slug: "t/telos"
-          - page: "The Three-Term Contingency"
-            path: docs/pages/encyclopedia/t/three-term-contingency.mdx
-            slug: "t/three-term-contingency"
           - page: "Topics"
             path: docs/pages/encyclopedia/t/topics.mdx
             slug: "t/topics"
@@ -786,7 +768,7 @@ navigation:
           - page: "Wendell, Barrett"
             path: docs/pages/encyclopedia/w/wendell-barrett-1855-1921.mdx
             slug: "w/wendell-barrett-1855-1921"
-          - page: "Writing across the Curriculum"
+          - page: "Writing Across the Curriculum"
             path: docs/pages/encyclopedia/w/writing-across-the-curriculum.mdx
             slug: "w/writing-across-the-curriculum"
       - section: "Y"
@@ -794,23 +776,55 @@ navigation:
           - page: "Young, Richard"
             path: docs/pages/encyclopedia/y/young-richard.mdx
             slug: "y/young-richard"
+  - tab: operant
+    layout:
+      - section: Operant Conditioning
+        contents:
+          - page: Overview
+            path: docs/pages/encyclopedia/o/operant-conditioning.mdx
+            slug: "o/operant-conditioning"
+            icon: fa-duotone fa-file-lines
+          - page: Introduction
+            path: docs/pages/encyclopedia/i/introduction-operant.mdx
+            slug: "i/introduction-operant"
+            icon: fa-duotone fa-file-lines
+          - page: Basic Concepts
+            path: docs/pages/encyclopedia/b/basic-concepts-operant.mdx
+            slug: "b/basic-concepts-operant"
+            icon: fa-duotone fa-file-lines
+          - page: Operant vs. Pavlovian
+            path: docs/pages/encyclopedia/o/operant-versus-pavlovian-conditioning.mdx
+            slug: "o/operant-versus-pavlovian-conditioning"
+            icon: fa-duotone fa-file-lines
+          - page: Schedules of Reinforcement
+            path: docs/pages/encyclopedia/s/schedules-of-reinforcement.mdx
+            slug: "s/schedules-of-reinforcement"
+            icon: fa-duotone fa-file-lines
+          - page: Three-Term Contingency
+            path: docs/pages/encyclopedia/t/three-term-contingency.mdx
+            slug: "t/three-term-contingency"
+            icon: fa-duotone fa-file-lines
+          - page: Glossary
+            path: docs/pages/encyclopedia/g/glossary-operant.mdx
+            slug: "g/glossary-operant"
+            icon: fa-duotone fa-list
 navbar-links:
   - type: filled
     text: Edit
     url: https://dashboard.buildwithfern.com
 colors:
   accent-primary:
-    light: "#1A1A2E"
-    dark: "#1A1A2E"
+    light: "#2B2B9B"
+    dark: "#818CF8"
   background:
-    light: "#F8F8F9"
-    dark: "#010102"
+    light: "#F7F4EE"
+    dark: "#141412"
   card-background:
-    dark: "#1a1a1c"
     light: "#FFFFFF"
+    dark: "#1E1D1B"
   border:
-    light: "#CACACB"
-    dark: "#272728"
+    light: "#DDD9D3"
+    dark: "#2A2927"
 theme:
   page-actions: toolbar
   footer-nav: minimal
@@ -828,7 +842,10 @@ css:
   - docs/assets/onboarding-theme.css
 typography:
   headingsFont:
-    name: Inter
+    name: Geist
   bodyFont:
-    name: Inter
+    name: Geist
 ai-search: {}
+js:
+  - path: docs/assets/starfield.js
+    strategy: afterInteractive
