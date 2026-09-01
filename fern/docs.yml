@@ -152,9 +152,6 @@ navigation:
           - page: "Barthes, Roland"
             path: docs/pages/encyclopedia/b/barthes-roland-19151980.mdx
             slug: "b/barthes-roland-19151980"
-          - page: "Basic Concepts (Operant)"
-            path: docs/pages/encyclopedia/b/basic-concepts-operant.mdx
-            slug: "b/basic-concepts-operant"
           - page: "Basic English"
             path: docs/pages/encyclopedia/b/basic-english.mdx
             slug: "b/basic-english"
@@ -384,9 +381,6 @@ navigation:
           - page: "Ghostwriting"
             path: docs/pages/encyclopedia/g/ghostwriting.mdx
             slug: "g/ghostwriting"
-          - page: "Glossary (Operant)"
-            path: docs/pages/encyclopedia/g/glossary-operant.mdx
-            slug: "g/glossary-operant"
           - page: "Gradatio"
             path: docs/pages/encyclopedia/g/gradatio.mdx
             slug: "g/gradatio"
@@ -448,9 +442,6 @@ navigation:
           - page: "Informal Logic"
             path: docs/pages/encyclopedia/i/informal-logic.mdx
             slug: "i/informal-logic"
-          - page: "Introduction (Operant)"
-            path: docs/pages/encyclopedia/i/introduction-operant.mdx
-            slug: "i/introduction-operant"
           - page: "Invention"
             path: docs/pages/encyclopedia/i/invention.mdx
             slug: "i/invention"
@@ -539,9 +530,20 @@ navigation:
           - page: "Oliver, Robert T."
             path: docs/pages/encyclopedia/o/oliver-robert-t-b-1909.mdx
             slug: "o/oliver-robert-t-b-1909"
-          - page: "Operant Conditioning"
-            path: docs/pages/encyclopedia/o/operant-conditioning.mdx
-            slug: "o/operant-conditioning"
+          - section: "Operant Conditioning"
+            contents:
+              - page: "Overview"
+                path: docs/pages/encyclopedia/o/operant-conditioning.mdx
+                slug: "o/operant-conditioning"
+              - page: "Basic Concepts"
+                path: docs/pages/encyclopedia/b/basic-concepts-operant.mdx
+                slug: "b/basic-concepts-operant"
+              - page: "Glossary"
+                path: docs/pages/encyclopedia/g/glossary-operant.mdx
+                slug: "g/glossary-operant"
+              - page: "Introduction"
+                path: docs/pages/encyclopedia/i/introduction-operant.mdx
+                slug: "i/introduction-operant"
           - page: "Operant vs. Pavlovian"
             path: docs/pages/encyclopedia/o/operant-versus-pavlovian-conditioning.mdx
             slug: "o/operant-versus-pavlovian-conditioning"
