@@ -1,2 +1,5 @@
 # Materialized layout previews (scripts/dev-layout.sh, publish-layouts.yml)
 .preview/
+
+# Migration working files (raw source dumps and cleaned drafts stay out of git)
+migration/raw/

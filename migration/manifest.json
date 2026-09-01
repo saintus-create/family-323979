@@ -1,0 +1,1748 @@
+{
+  "source_site": "https://us-fda.docs.buildwithfern.com",
+  "source_index": "https://us-fda.docs.buildwithfern.com/llms.txt",
+  "note": "Slugs transcribed from the live index. ingest/fetch step should verify each URL; 404s get re-resolved against /llms.txt. needs_review entries are broken artifacts of the source export (split titles, spill-over text, author names captured as entries) and require an editorial decision before migration. skip entries are not real encyclopedia content.",
+  "entries": [
+    {
+      "letter": "A",
+      "title": "Accumulatio",
+      "slug": "accumulatio",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Actio",
+      "slug": "actio",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Advertising, Rhetoric of",
+      "slug": "advertising-rhetoric-of",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "African-American Rhetoric",
+      "slug": "african-american-rhetoric",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Alcuin of York (c. 735–804)",
+      "slug": "alcuin-of-york",
+      "status": "done",
+      "recovered": true,
+      "review_note": "Recovered from spill-over in the african-american-rhetoric record; absent from source index."
+    },
+    {
+      "letter": "A",
+      "title": "Anacoluthon",
+      "slug": "anacoluthon",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Anadiplosis",
+      "slug": "anadiplosis",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Anaphora",
+      "slug": "anaphora",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Anapodoton",
+      "slug": "anapodoton",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Anastrophe",
+      "slug": "anastrophe",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Antanaclasis",
+      "slug": "antanaclasis",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Anthimeria",
+      "slug": "anthimeria",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Antidosis",
+      "slug": "antidosis",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Antimetabole",
+      "slug": "antimetabole",
+      "status": "pending"
+    },
+    {
+      "letter": "A",
+      "title": "Antiptosis",
+      "slug": "antiptosis",
+      "status": "pending"
+    },
+    {
+      "letter": "A",
+      "title": "Antithesis",
+      "slug": "antithesis",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Aposiopesis",
+      "slug": "aposiopesis",
+      "status": "pending"
+    },
+    {
+      "letter": "A",
+      "title": "Apostrophe",
+      "slug": "apostrophe",
+      "status": "pending"
+    },
+    {
+      "letter": "A",
+      "title": "Argument",
+      "slug": "argument",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Aristotle",
+      "slug": "aristotle",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Arrangement",
+      "slug": "arrangement",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Ars praedicandi",
+      "slug": "ars-praedicandi",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Aspasia of Miletus",
+      "slug": "aspasia-of-miletus",
+      "status": "done",
+      "recovered": true,
+      "review_note": "Recovered from spill-over in the ars-praedicandi record; absent from source index."
+    },
+    {
+      "letter": "A",
+      "title": "Asterismos",
+      "slug": "asterismos",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Asyndeton",
+      "slug": "asyndeton",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Atticism",
+      "slug": "atticism",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Austin, J.L. (1911–1960)",
+      "slug": "austin-jl-19111960",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Author",
+      "slug": "author",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Axiology",
+      "slug": "axiology",
+      "status": "done"
+    },
+    {
+      "letter": "A",
+      "title": "Ayer, Alfred Jules (1910–1989)",
+      "slug": "ayer-alfred-jules",
+      "status": "done",
+      "recovered": true,
+      "review_note": "Recovered from spill-over in the axiology record; absent from source index."
+    },
+    {
+      "letter": "A",
+      "title": "Aytoun, Edward Edmondstoune (1813–1865)",
+      "slug": "aytoun-edward-edmondstoune",
+      "status": "done"
+    },
+    {
+      "letter": "B",
+      "title": "Barthes, Roland (1915–1980)",
+      "slug": "barthes-roland-19151980",
+      "status": "pending"
+    },
+    {
+      "letter": "B",
+      "title": "Basic Concepts (Operant Conditioning)",
+      "slug": "basic-concepts-operant",
+      "status": "pending"
+    },
+    {
+      "letter": "B",
+      "title": "Bede (672/673–735 C.E.)",
+      "slug": "bede-672-or-673735-ce",
+      "status": "pending"
+    },
+    {
+      "letter": "B",
+      "title": "Bentham, Jeremy (1748–1832)",
+      "slug": "bentham-jeremy-17481832",
+      "status": "pending"
+    },
+    {
+      "letter": "B",
+      "title": "Berthoff, Ann E. (b. 1924)",
+      "slug": "berthoff-ann-e-b-1924",
+      "status": "pending"
+    },
+    {
+      "letter": "B",
+      "title": "Britton, James (1908–1994)",
+      "slug": "britton-james-19081994",
+      "status": "pending"
+    },
+    {
+      "letter": "B",
+      "title": "Burke, Kenneth",
+      "slug": "burkes-approach-to-understanding-how-language-functions",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Source title is 'Burke' with a URL slug inherited from a longer merged title; confirm entry boundaries."
+    },
+    {
+      "letter": "C",
+      "title": "Campbell, George; Smith, Adam",
+      "slug": "campbell-george-smith-adam",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Merged entry; split into separate headings or entries."
+    },
+    {
+      "letter": "C",
+      "title": "Catachresis",
+      "slug": "catachresis",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Cause and Effect",
+      "slug": "cause-and-effect",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Century Rhetoric; Whately, Richard",
+      "slug": "century-rhetoric-whately-richard",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Title looks truncated (likely 'Nineteenth-Century Rhetoric; Whately, Richard')."
+    },
+    {
+      "letter": "C",
+      "title": "Chiasmus",
+      "slug": "chiasmus",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Chomsky, Noam (b. 1928)",
+      "slug": "chomsky-noam-b-1928",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Cicero; Dialogics; Plato; Topics",
+      "slug": "cicero-dialogics-plato-topics",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Merged cross-reference entry."
+    },
+    {
+      "letter": "C",
+      "title": "Cixous, Hélène (b. 1937)",
+      "slug": "cixous-hlne-b-1937",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Clarity",
+      "slug": "clarity",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Classification",
+      "slug": "classification",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Cognitive Rhetoric",
+      "slug": "cognitive-rhetoric",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Coherence",
+      "slug": "coherence",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Cohesion",
+      "slug": "cohesion",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Collaboration",
+      "slug": "collaboration",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Commonplaces",
+      "slug": "commonplaces",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Communication",
+      "slug": "communication",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Comparison",
+      "slug": "comparison",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Composition and Communication",
+      "slug": "composition-and-communication",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Source title ends with a dangling semicolon; trim."
+    },
+    {
+      "letter": "C",
+      "title": "Composition Studies",
+      "slug": "composition-studies",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Computer Applications in Rhetoric",
+      "slug": "computer-applications-in-rhetoric",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Confirmatio",
+      "slug": "confirmatio",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Consubstantiality",
+      "slug": "consubstantiality",
+      "status": "pending",
+      "slug_unverified": true
+    },
+    {
+      "letter": "C",
+      "title": "Contextuality",
+      "slug": "contextuality",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Contingency",
+      "slug": "contingency",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Contrast",
+      "slug": "contrast",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Copia",
+      "slug": "copia",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Corax (c. 490–c. 440 B.C.E.)",
+      "slug": "corax-c-490-bcec-440-bce",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Correctness",
+      "slug": "correctness",
+      "status": "pending"
+    },
+    {
+      "letter": "C",
+      "title": "Current-Traditional Rhetoric",
+      "slug": "current-traditional-rhetoric",
+      "status": "pending"
+    },
+    {
+      "letter": "D",
+      "title": "De Man, Paul (1919–1983)",
+      "slug": "de-man-paul-19191983",
+      "status": "pending"
+    },
+    {
+      "letter": "D",
+      "title": "Decorum",
+      "slug": "decorum",
+      "status": "pending"
+    },
+    {
+      "letter": "D",
+      "title": "Deduction",
+      "slug": "deduction",
+      "status": "pending"
+    },
+    {
+      "letter": "D",
+      "title": "Definition",
+      "slug": "definition",
+      "status": "pending"
+    },
+    {
+      "letter": "D",
+      "title": "Delivery",
+      "slug": "delivery",
+      "status": "pending"
+    },
+    {
+      "letter": "D",
+      "title": "Demetrius of Phalerum (c. 350–283 B.C.E.)",
+      "slug": "demetrius-of-phalerum-c-350-283-bce",
+      "status": "pending"
+    },
+    {
+      "letter": "D",
+      "title": "Derrida, Jacques",
+      "slug": "derrida-jacques",
+      "status": "pending"
+    },
+    {
+      "letter": "D",
+      "title": "Description",
+      "slug": "description",
+      "status": "pending"
+    },
+    {
+      "letter": "D",
+      "title": "Diacope",
+      "slug": "diacope",
+      "status": "pending"
+    },
+    {
+      "letter": "D",
+      "title": "Diaphora",
+      "slug": "diaphora",
+      "status": "pending"
+    },
+    {
+      "letter": "D",
+      "title": "Digressio",
+      "slug": "digressio",
+      "status": "pending"
+    },
+    {
+      "letter": "D",
+      "title": "Discourse",
+      "slug": "discourse",
+      "status": "pending"
+    },
+    {
+      "letter": "D",
+      "title": "Discourse Community",
+      "slug": "discourse-community",
+      "status": "pending"
+    },
+    {
+      "letter": "D",
+      "title": "Dissociation",
+      "slug": "dissociation",
+      "status": "pending"
+    },
+    {
+      "letter": "D",
+      "title": "Doublespeak",
+      "slug": "doublespeak",
+      "status": "pending"
+    },
+    {
+      "letter": "D",
+      "title": "Dramatism",
+      "slug": "dramatism",
+      "status": "pending"
+    },
+    {
+      "letter": "D",
+      "title": "Du Bois, W.E.B. (1868–1963)",
+      "slug": "dubois-web-18681963",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Corbett, Edward P.J.",
+      "slug": "edward-pj-corbett",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Source title is a bare author name; normalize to 'Corbett, Edward P.J.'"
+    },
+    {
+      "letter": "E",
+      "title": "Eight-Legged Essay",
+      "slug": "eight-legged-essay",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Eighteenth-Century Rhetoric",
+      "slug": "eighteenth-century-rhetoric",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Electronic Rhetoric",
+      "slug": "electronic-rhetoric",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Elocution",
+      "slug": "elocution",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Emerson, Ralph Waldo (1803–1882)",
+      "slug": "emerson-ralph-waldo-18031882",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Emphasis",
+      "slug": "emphasis",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Enallage",
+      "slug": "enallage",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Enthymeme",
+      "slug": "enthymeme",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Epanalepsis",
+      "slug": "epanalepsis",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Epanorthosis",
+      "slug": "epanorthosis",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Epiphora",
+      "slug": "epiphora",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Epizeuxis",
+      "slug": "epizeuxis",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Eristic",
+      "slug": "eristic",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Ethnography",
+      "slug": "ethnography",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Ethos",
+      "slug": "ethos",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Evidence",
+      "slug": "evidence",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Example",
+      "slug": "example",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Exordium",
+      "slug": "exordium",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Exposition",
+      "slug": "exposition",
+      "status": "pending"
+    },
+    {
+      "letter": "E",
+      "title": "Expressionism",
+      "slug": "expressionism",
+      "status": "pending"
+    },
+    {
+      "letter": "F",
+      "title": "D'Angelo, Frank J.",
+      "slug": "frank-j-dangelo",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Source title truncated to 'Frank J. D'; restore surname."
+    },
+    {
+      "letter": "F",
+      "title": "Fallacy",
+      "slug": "fallacy",
+      "status": "pending"
+    },
+    {
+      "letter": "F",
+      "title": "Fell, Margaret (1614–1702)",
+      "slug": "fell-margaret-16141702",
+      "status": "pending"
+    },
+    {
+      "letter": "F",
+      "title": "Figures of Speech; Wilson, Thomas",
+      "slug": "figures-of-speech-wilson-thomas",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Merged cross-reference entry."
+    },
+    {
+      "letter": "F",
+      "title": "Figures; Peacham, Henry; Ramus, Peter; Style",
+      "slug": "figures-peacham-henry-ramus-peter-style",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Merged cross-reference entry with dangling punctuation."
+    },
+    {
+      "letter": "G",
+      "title": "Genre",
+      "slug": "genre",
+      "status": "pending"
+    },
+    {
+      "letter": "G",
+      "title": "Ghostwriting",
+      "slug": "ghostwriting",
+      "status": "pending"
+    },
+    {
+      "letter": "G",
+      "title": "Glossary (Operant Conditioning)",
+      "slug": "glossary-operant",
+      "status": "pending"
+    },
+    {
+      "letter": "G",
+      "title": "Gradatio",
+      "slug": "gradatio",
+      "status": "pending"
+    },
+    {
+      "letter": "G",
+      "title": "Grammar",
+      "slug": "grammar",
+      "status": "pending"
+    },
+    {
+      "letter": "H",
+      "title": "Handbooks",
+      "slug": "handbooks",
+      "status": "pending"
+    },
+    {
+      "letter": "H",
+      "title": "Hendiadys",
+      "slug": "hendiadys",
+      "status": "pending"
+    },
+    {
+      "letter": "H",
+      "title": "Hermeneutics",
+      "slug": "hermeneutics",
+      "status": "pending"
+    },
+    {
+      "letter": "H",
+      "title": "Heuristics",
+      "slug": "heuristics",
+      "status": "pending"
+    },
+    {
+      "letter": "H",
+      "title": "Historiographies of Rhetoric",
+      "slug": "historiographies-of-rhetoric",
+      "status": "pending"
+    },
+    {
+      "letter": "H",
+      "title": "Home (API index)",
+      "slug": "index",
+      "status": "pending",
+      "skip": true,
+      "review_note": "API-reference landing page on the source site, not encyclopedia content."
+    },
+    {
+      "letter": "H",
+      "title": "Homily",
+      "slug": "homily",
+      "status": "pending"
+    },
+    {
+      "letter": "H",
+      "title": "Howell, Wilbur Samuel (1904–1992)",
+      "slug": "howell-wilbur-samuel-1904-1992",
+      "status": "pending"
+    },
+    {
+      "letter": "H",
+      "title": "Hypallage",
+      "slug": "hypallage",
+      "status": "pending"
+    },
+    {
+      "letter": "H",
+      "title": "Hyperbaton",
+      "slug": "hyperbaton",
+      "status": "pending"
+    },
+    {
+      "letter": "H",
+      "title": "Hyperbole",
+      "slug": "hyperbole",
+      "status": "pending"
+    },
+    {
+      "letter": "I",
+      "title": "Identification",
+      "slug": "identification",
+      "status": "pending"
+    },
+    {
+      "letter": "I",
+      "title": "Illustration",
+      "slug": "illustration",
+      "status": "pending"
+    },
+    {
+      "letter": "I",
+      "title": "Imagery",
+      "slug": "imagery",
+      "status": "pending"
+    },
+    {
+      "letter": "I",
+      "title": "Imitation",
+      "slug": "imitation",
+      "status": "pending"
+    },
+    {
+      "letter": "I",
+      "title": "Inclusio",
+      "slug": "inclusio",
+      "status": "pending"
+    },
+    {
+      "letter": "I",
+      "title": "Induction",
+      "slug": "induction",
+      "status": "pending"
+    },
+    {
+      "letter": "I",
+      "title": "Informal Logic",
+      "slug": "informal-logic",
+      "status": "pending"
+    },
+    {
+      "letter": "I",
+      "title": "Introduction (Operant Conditioning)",
+      "slug": "introduction-operant",
+      "status": "pending"
+    },
+    {
+      "letter": "I",
+      "title": "Invention",
+      "slug": "invention",
+      "status": "pending"
+    },
+    {
+      "letter": "I",
+      "title": "Invention; Progymnasmata; Quintilian; Stasis",
+      "slug": "invention-progymnasmata-quintilian-stasis",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Merged cross-reference entry."
+    },
+    {
+      "letter": "I",
+      "title": "Irony",
+      "slug": "irony",
+      "status": "pending"
+    },
+    {
+      "letter": "I",
+      "title": "Isocolon",
+      "slug": "isocolon",
+      "status": "pending"
+    },
+    {
+      "letter": "I",
+      "title": "Isocrates",
+      "slug": "isocrates",
+      "status": "pending"
+    },
+    {
+      "letter": "K",
+      "title": "Kairos",
+      "slug": "kairos",
+      "status": "pending"
+    },
+    {
+      "letter": "K",
+      "title": "Kenneth L.; Young, Richard",
+      "slug": "kenneth-l-young-richard",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Corrupted merged title; identify the intended entries."
+    },
+    {
+      "letter": "K",
+      "title": "Kenneth L.; Young, Richard; Talon, Omer (1515?–1562)",
+      "slug": "kenneth-l-young-richard-talon-omer-1515-1562",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Corrupted merged title; identify the intended entries."
+    },
+    {
+      "letter": "L",
+      "title": "Ferreira-Buckley, Linda",
+      "slug": "linda-ferreira-buckley",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Source title is a bare author name; normalize."
+    },
+    {
+      "letter": "L",
+      "title": "Language Arts",
+      "slug": "language-arts",
+      "status": "pending"
+    },
+    {
+      "letter": "L",
+      "title": "Lauer, Janice M. (b. 1931)",
+      "slug": "lauer-janice-m-b-1931",
+      "status": "pending"
+    },
+    {
+      "letter": "L",
+      "title": "Linguistics",
+      "slug": "linguistics",
+      "status": "pending"
+    },
+    {
+      "letter": "L",
+      "title": "Literacy",
+      "slug": "literacy",
+      "status": "pending"
+    },
+    {
+      "letter": "L",
+      "title": "Liturgy",
+      "slug": "liturgy",
+      "status": "pending"
+    },
+    {
+      "letter": "L",
+      "title": "Logic",
+      "slug": "logic",
+      "status": "pending"
+    },
+    {
+      "letter": "L",
+      "title": "Logocentrism",
+      "slug": "logocentrism",
+      "status": "pending"
+    },
+    {
+      "letter": "L",
+      "title": "Logology",
+      "slug": "logology",
+      "status": "pending"
+    },
+    {
+      "letter": "L",
+      "title": "Logos",
+      "slug": "logos",
+      "status": "pending"
+    },
+    {
+      "letter": "M",
+      "title": "Magic",
+      "slug": "magic",
+      "status": "pending"
+    },
+    {
+      "letter": "M",
+      "title": "Memory",
+      "slug": "memory",
+      "status": "pending"
+    },
+    {
+      "letter": "M",
+      "title": "Ment; Aristotle; Atticism; Cicero",
+      "slug": "ment-aristotle-atticism-cicero",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Title fragment (likely the tail of 'ARRANGEMENT' or similar)."
+    },
+    {
+      "letter": "M",
+      "title": "Metadiscourse",
+      "slug": "metadiscourse",
+      "status": "pending"
+    },
+    {
+      "letter": "M",
+      "title": "Metalepsis",
+      "slug": "metalepsis",
+      "status": "pending"
+    },
+    {
+      "letter": "M",
+      "title": "Metaphor",
+      "slug": "metaphor",
+      "status": "pending"
+    },
+    {
+      "letter": "M",
+      "title": "Metonymy; Synecdoche",
+      "slug": "metonymy-synecdoche",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Has a spill-over duplicate fragment."
+    },
+    {
+      "letter": "M",
+      "title": "Metonymy; Synecdoche (spill-over fragment)",
+      "slug": "metonymy-synecdoche-figures-of-speech-any-isolatable",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Body text captured as a second entry; merge into 'Metonymy; Synecdoche'."
+    },
+    {
+      "letter": "M",
+      "title": "Modes of Discourse",
+      "slug": "modes-of-discourse",
+      "status": "pending"
+    },
+    {
+      "letter": "M",
+      "title": "Myth",
+      "slug": "myth",
+      "status": "pending"
+    },
+    {
+      "letter": "M",
+      "title": "Saville-Troike, Muriel",
+      "slug": "muriel-saville-troike",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Source title is a bare author name; normalize."
+    },
+    {
+      "letter": "N",
+      "title": "Narratio",
+      "slug": "narratio",
+      "status": "pending"
+    },
+    {
+      "letter": "N",
+      "title": "National Council of Teachers of English",
+      "slug": "national-council-of-teachers-of-english",
+      "status": "pending"
+    },
+    {
+      "letter": "N",
+      "title": "Nineteenth-Century Rhetoric",
+      "slug": "nineteenth-century-rhetoric",
+      "status": "pending"
+    },
+    {
+      "letter": "O",
+      "title": "Olbrechts-Tyteca, Lucie (1899–1988)",
+      "slug": "olbrechts-tyteca-lucie-1899-1988",
+      "status": "pending"
+    },
+    {
+      "letter": "O",
+      "title": "Oliver, Robert T. (b. 1909)",
+      "slug": "oliver-robert-t-b-1909",
+      "status": "pending"
+    },
+    {
+      "letter": "O",
+      "title": "Operant Conditioning",
+      "slug": "operant-conditioning",
+      "status": "pending"
+    },
+    {
+      "letter": "O",
+      "title": "Operant versus Pavlovian Conditioning",
+      "slug": "operant-versus-pavlovian-conditioning",
+      "status": "pending"
+    },
+    {
+      "letter": "O",
+      "title": "Orality; McLuhan, Marshall; Visual",
+      "slug": "orality-mcluhan-marshall-visual",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Merged cross-reference entry; trailing word likely truncated."
+    },
+    {
+      "letter": "O",
+      "title": "Oratory; Religious Rhetoric",
+      "slug": "oratory-religious-rhetoric",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Merged cross-reference entry."
+    },
+    {
+      "letter": "O",
+      "title": "Oratory; Religious Rhetoric; Sermon",
+      "slug": "oratory-religious-rhetoric-sermon",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Merged cross-reference entry."
+    },
+    {
+      "letter": "P",
+      "title": "Parenthesis",
+      "slug": "parenthesis",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Partitio",
+      "slug": "partitio",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Pathos",
+      "slug": "pathos",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Pentad",
+      "slug": "pentad",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Pentad; Symbolic Action",
+      "slug": "pentad-symbolic-action",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Merged cross-reference entry."
+    },
+    {
+      "letter": "P",
+      "title": "Pentad; Tagmemics; Technê; Topics",
+      "slug": "pentad-tagmemics-techn-topics",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Merged cross-reference entry."
+    },
+    {
+      "letter": "P",
+      "title": "Peripatetics",
+      "slug": "peripatetics",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Periphrasis",
+      "slug": "periphrasis",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Peroratio",
+      "slug": "peroratio",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Persona",
+      "slug": "persona",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Persuasion",
+      "slug": "persuasion",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Persuasion; Political Rhetoric",
+      "slug": "persuasion-political-rhetoric",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Merged cross-reference entry."
+    },
+    {
+      "letter": "P",
+      "title": "Phronésis",
+      "slug": "phron-sis",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Pizan, Christine de (1364–c. 1430)",
+      "slug": "pizan-christine-de-1364-c-1430",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Pleonasm",
+      "slug": "pleonasm",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Ploce",
+      "slug": "ploce",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Poetics",
+      "slug": "poetics",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Polyptoton",
+      "slug": "polyptoton",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Polysyndeton",
+      "slug": "polysyndeton",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Port-Royalists",
+      "slug": "port-royalists",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Portfolio",
+      "slug": "portfolio",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Postmodernism",
+      "slug": "postmodernism",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Poststructuralism",
+      "slug": "poststructuralism",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Pragmatism",
+      "slug": "pragmatism",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Praxis",
+      "slug": "praxis",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Preteritio",
+      "slug": "preteritio",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Probability",
+      "slug": "probability",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Process/Product",
+      "slug": "process-product",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Project; Protocols",
+      "slug": "project-protocols",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Merged cross-reference entry."
+    },
+    {
+      "letter": "P",
+      "title": "Prolegomena",
+      "slug": "prolegomena",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Proof",
+      "slug": "proof",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Propaganda",
+      "slug": "propaganda",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Protest Rhetoric",
+      "slug": "protest-rhetoric",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Protocols",
+      "slug": "protocols",
+      "status": "pending"
+    },
+    {
+      "letter": "P",
+      "title": "Pulpit Oratory; Sermon",
+      "slug": "pulpit-oratory-sermon",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Merged cross-reference entry."
+    },
+    {
+      "letter": "Q",
+      "title": "Quadrivium",
+      "slug": "quadrivium",
+      "status": "pending"
+    },
+    {
+      "letter": "Q",
+      "title": "Quine, Willard Van Orman (b. 1908)",
+      "slug": "quine-willard-van-orman-b-1908",
+      "status": "pending"
+    },
+    {
+      "letter": "Q",
+      "title": "Quintilian",
+      "slug": "quintilian",
+      "status": "pending"
+    },
+    {
+      "letter": "R",
+      "title": "Raymond",
+      "slug": "raymond",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Title fragment; identify intended entry (likely 'Williams, Raymond')."
+    },
+    {
+      "letter": "R",
+      "title": "Readability",
+      "slug": "readability",
+      "status": "pending"
+    },
+    {
+      "letter": "R",
+      "title": "Reader-Response Criticism",
+      "slug": "reader-response-criticism",
+      "status": "pending"
+    },
+    {
+      "letter": "R",
+      "title": "Rhetor",
+      "slug": "rhetor",
+      "status": "pending"
+    },
+    {
+      "letter": "R",
+      "title": "Rhetoric",
+      "slug": "rhetoric",
+      "status": "pending"
+    },
+    {
+      "letter": "R",
+      "title": "Rhetoric and Poetry",
+      "slug": "rhetoric-and-poetry",
+      "status": "pending"
+    },
+    {
+      "letter": "R",
+      "title": "Rhetoric and Psychiatry",
+      "slug": "rhetoric-and-psychiatry",
+      "status": "pending"
+    },
+    {
+      "letter": "R",
+      "title": "Rhetoric and Technology",
+      "slug": "rhetoric-and-technology",
+      "status": "pending"
+    },
+    {
+      "letter": "R",
+      "title": "Rhetoric of Film",
+      "slug": "rhetoric-of-film",
+      "status": "pending"
+    },
+    {
+      "letter": "R",
+      "title": "Rhetoric of Silence",
+      "slug": "rhetoric-of-silence",
+      "status": "pending"
+    },
+    {
+      "letter": "R",
+      "title": "Rhetoric Society of America",
+      "slug": "rhetoric-society-of-america",
+      "status": "pending"
+    },
+    {
+      "letter": "R",
+      "title": "Rhetoric; Current-Traditional",
+      "slug": "rhetoric-current-traditional",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Merged cross-reference entry."
+    },
+    {
+      "letter": "R",
+      "title": "Rhetoric; Ethos; Invention; Pathos; Technê",
+      "slug": "rhetoric-ethos-invention-pathos-techn",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Has a spill-over duplicate fragment."
+    },
+    {
+      "letter": "R",
+      "title": "Rhetoric; Ethos; Invention; Pathos; Technê (Toulmin)",
+      "slug": "rhetoric-ethos-invention-pathos-techn-toulmin",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Split/spill-over of the following entry."
+    },
+    {
+      "letter": "R",
+      "title": "Rhetoric; Nineteenth-Century Rhetoric",
+      "slug": "rhetoric-nineteenth-century-rhetoric",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Merged cross-reference entry."
+    },
+    {
+      "letter": "R",
+      "title": "Rhetoric; Roman Rhetoric",
+      "slug": "rhetoric-roman-rhetoric",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Merged cross-reference entry."
+    },
+    {
+      "letter": "R",
+      "title": "Rhetoric; Sophistic Rhetoric",
+      "slug": "rhetoric-sophistic-rhetoric",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Has a spill-over duplicate fragment."
+    },
+    {
+      "letter": "R",
+      "title": "Rhetoric; Sophistic Rhetoric (Semantics spill-over)",
+      "slug": "rhetoric-sophistic-rhetoric-semantics-related-to-a",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Body text captured as a second entry; merge into 'Rhetoric; Sophistic Rhetoric'."
+    },
+    {
+      "letter": "R",
+      "title": "Rhetoric; Tagmemics",
+      "slug": "rhetoric-tagmemics",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Merged cross-reference entry."
+    },
+    {
+      "letter": "R",
+      "title": "Rhetorical Criticism",
+      "slug": "rhetorical-criticism",
+      "status": "pending"
+    },
+    {
+      "letter": "R",
+      "title": "Rhetorician",
+      "slug": "rhetorician",
+      "status": "pending"
+    },
+    {
+      "letter": "R",
+      "title": "Rhêtorikê",
+      "slug": "rh-torik",
+      "status": "pending"
+    },
+    {
+      "letter": "R",
+      "title": "Royal Society of London",
+      "slug": "royal-society-of-london",
+      "status": "pending"
+    },
+    {
+      "letter": "S",
+      "title": "Salutatio",
+      "slug": "salutatio",
+      "status": "pending"
+    },
+    {
+      "letter": "S",
+      "title": "Saussure, Ferdinand de; Signified/Signifier",
+      "slug": "saussure-ferdinand-de-signified",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Title truncated after 'SIGNIFIED/'."
+    },
+    {
+      "letter": "S",
+      "title": "Schedules of Reinforcement",
+      "slug": "schedules-of-reinforcement",
+      "status": "pending"
+    },
+    {
+      "letter": "S",
+      "title": "Scholasticism",
+      "slug": "scholasticism",
+      "status": "pending"
+    },
+    {
+      "letter": "S",
+      "title": "Semiotics",
+      "slug": "semiotics",
+      "status": "pending"
+    },
+    {
+      "letter": "S",
+      "title": "Sermon",
+      "slug": "sermon",
+      "status": "pending"
+    },
+    {
+      "letter": "S",
+      "title": "Sociolinguistics",
+      "slug": "sociolinguistics",
+      "status": "pending"
+    },
+    {
+      "letter": "S",
+      "title": "Sophist",
+      "slug": "sophist",
+      "status": "pending"
+    },
+    {
+      "letter": "S",
+      "title": "Speaking and Writing",
+      "slug": "speaking-and-writing",
+      "status": "pending"
+    },
+    {
+      "letter": "S",
+      "title": "Speech",
+      "slug": "speech",
+      "status": "pending"
+    },
+    {
+      "letter": "S",
+      "title": "Speech Communication",
+      "slug": "speech-communication",
+      "status": "pending"
+    },
+    {
+      "letter": "S",
+      "title": "Speech; Metaphor; Tropes",
+      "slug": "speech-metaphor-tropes",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Merged cross-reference entry."
+    },
+    {
+      "letter": "S",
+      "title": "Speech; Stylistics; Tropes",
+      "slug": "speech-stylistics-tropes",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Merged cross-reference entry."
+    },
+    {
+      "letter": "S",
+      "title": "Stasis Theory",
+      "slug": "stasis-theory",
+      "status": "pending"
+    },
+    {
+      "letter": "S",
+      "title": "Style",
+      "slug": "style",
+      "status": "pending"
+    },
+    {
+      "letter": "S",
+      "title": "Syllogism",
+      "slug": "syllogism",
+      "status": "pending"
+    },
+    {
+      "letter": "S",
+      "title": "Symploce",
+      "slug": "symploce",
+      "status": "pending"
+    },
+    {
+      "letter": "S",
+      "title": "Synecdoche",
+      "slug": "synecdoche",
+      "status": "pending"
+    },
+    {
+      "letter": "T",
+      "title": "Carr, Jr., Thomas M.",
+      "slug": "thomas-m-carr-jr",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Source title is a bare author name; normalize."
+    },
+    {
+      "letter": "T",
+      "title": "Tagmemics",
+      "slug": "tagmemics",
+      "status": "pending"
+    },
+    {
+      "letter": "T",
+      "title": "Technê",
+      "slug": "techn",
+      "status": "pending"
+    },
+    {
+      "letter": "T",
+      "title": "Telos",
+      "slug": "telos",
+      "status": "pending"
+    },
+    {
+      "letter": "T",
+      "title": "The Three-Term Contingency",
+      "slug": "three-term-contingency",
+      "status": "pending"
+    },
+    {
+      "letter": "T",
+      "title": "This page intentionally left blank",
+      "slug": "this-page-intentionally-left-blank",
+      "status": "pending",
+      "skip": true,
+      "review_note": "Typesetting artifact, not content."
+    },
+    {
+      "letter": "T",
+      "title": "Topics",
+      "slug": "topics",
+      "status": "pending"
+    },
+    {
+      "letter": "T",
+      "title": "Translation",
+      "slug": "translation",
+      "status": "pending"
+    },
+    {
+      "letter": "T",
+      "title": "Trivium",
+      "slug": "trivium",
+      "status": "pending"
+    },
+    {
+      "letter": "T",
+      "title": "Tropes",
+      "slug": "tropes",
+      "status": "pending"
+    },
+    {
+      "letter": "T",
+      "title": "Twentieth-Century Rhetoric",
+      "slug": "twentieth-century-rhetoric",
+      "status": "pending"
+    },
+    {
+      "letter": "T",
+      "title": "Untitled (academic field since the 1960s)",
+      "slug": "the-academic-field-that-has-developed-since-the-1960-s",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "First body sentence captured as title; identify intended entry."
+    },
+    {
+      "letter": "U",
+      "title": "Unity",
+      "slug": "unity",
+      "status": "pending"
+    },
+    {
+      "letter": "U",
+      "title": "…ures of Speech (fragment)",
+      "slug": "ures-of-speech",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Truncated fragment of 'Figures of Speech'; merge or discard."
+    },
+    {
+      "letter": "V",
+      "title": "Voice",
+      "slug": "voice",
+      "status": "pending"
+    },
+    {
+      "letter": "W",
+      "title": "Ong, Walter J.",
+      "slug": "walter-j",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Title fragment ('WALTER J.'); restore surname. Has spill-over duplicate."
+    },
+    {
+      "letter": "W",
+      "title": "Ong, Walter J. (Oratory spill-over)",
+      "slug": "walter-j-oratory-the-crafting-of-persuasive-appeals-that",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Split/spill-over of 'Ong, Walter J.'."
+    },
+    {
+      "letter": "W",
+      "title": "Weaver, Richard M. (1910–1953)",
+      "slug": "weaver-richard-m-1910-1953",
+      "status": "pending"
+    },
+    {
+      "letter": "W",
+      "title": "Wendell, Barrett (1855–1921)",
+      "slug": "wendell-barrett-1855-1921",
+      "status": "pending"
+    },
+    {
+      "letter": "W",
+      "title": "Winterowd, W. Ross",
+      "slug": "w-ross-winterowd",
+      "status": "pending",
+      "needs_review": true,
+      "review_note": "Source title is a bare author name; normalize."
+    },
+    {
+      "letter": "W",
+      "title": "Writing across the Curriculum",
+      "slug": "writing-across-the-curriculum",
+      "status": "pending"
+    },
+    {
+      "letter": "Y",
+      "title": "Young, Richard",
+      "slug": "young-richard",
+      "status": "pending"
+    }
+  ]
+}
