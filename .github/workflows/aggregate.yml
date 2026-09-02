@@ -8,20 +8,28 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: continuous-aggregation
+  cancel-in-progress: false
+
 jobs:
   aggregate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Aggregate new data
-        run: python3 scripts/aggregate.py
+      - name: Aggregate, match, index
+        run: python3 scripts/aggregate_engine.py
 
-      - name: Commit new aggregate state
+      - name: Show retrieval health
+        run: python3 scripts/query_aggregate.py health || true
+
+      - name: Persist aggregate state
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/aggregate/ data/sources.json
-          git diff --cached --quiet || git commit -m "chore: update aggregated data"
+          git add data/aggregate/
+          git diff --cached --quiet || git commit -m "chore: refresh aggregate index"
           git push
