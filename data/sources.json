@@ -1,0 +1,11 @@
+{
+  "sources": [
+    {
+      "id": "example-feed",
+      "name": "Example RSS/Atom source",
+      "url": "https://example.com/feed.xml",
+      "type": "rss",
+      "enabled": false
+    }
+  ]
+}
